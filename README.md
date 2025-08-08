@@ -84,7 +84,7 @@ doctor-portal-assignment/
 ## Deployment
 -->Vercel---------
 
--->GitHub Pages----
+-->GitHub Pages---->https://github.com/utu1234/Docter-Portal-App.git
 
 ----------------------------------------------------------------------------------------------------------------------------->
 
