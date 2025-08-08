@@ -103,11 +103,11 @@ User profile editing
 
 ------------------------------------------------------------------------------------------------------------------------------>
 
-Author
+## Author
 UTKARSH KUMAR
 [singhutkarsh9643@gmail.com]
-GitHub Profile-->
+GitHub Profile-->https://github.com/utu1234
 ------------------------------------------------------------------------------------------------------------------------------>
-License
+## License
 This project is for Task Submission.
 
